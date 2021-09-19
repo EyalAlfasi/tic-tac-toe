@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: '/tic-tac-toe/',
   css: {
     loaderOptions: {
       sass: {
