@@ -1,24 +1,3 @@
-# tic-tac-toe
+# Tic Tac Toe
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+A Tic Tac Toe game built with Vue.js, featuring an unbeatable AI using the Minimax algorithm.
